@@ -206,4 +206,4 @@ if __name__ == "__main__":
 > 참고 사이트 <br>
 > - [Fluent Interface Design Pattern in Automation Testing - Faisal Khatri](https://www.lambdatest.com/blog/fluent-interface-design-pattern/) <br>
 > - [Refactoring.guru](https://refactoring.guru/refactoring)
-> 
+> - [Design Patterns in Selenium - By Pooja Deshpande, Community Contributor - February 20, 2023](https://www.browserstack.com/guide/design-patterns-in-selenium)
